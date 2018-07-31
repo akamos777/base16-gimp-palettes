@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Material Vivid
+Columns: 8
+#
+38 50 56  base00 [#263238]
+55 71 79  base01 [#37474F]
+69 90 100  base02 [#455A64]
+84 110 122  base03 [#546E7A]
+144 164 174  base04 [#90A4AE]
+176 190 197  base05 [#B0BEC5]
+207 216 220  base06 [#CFD8DC]
+236 239 241  base07 [#ECEFF1]
+255 23 68  base08 [#FF1744]
+255 145 0  base09 [#FF9100]
+255 196 0  base0A [#FFC400]
+0 230 118  base0B [#00E676]
+0 176 255  base0C [#00B0FF]
+41 121 255  base0D [#2979FF]
+101 31 255  base0E [#651FFF]
+141 110 99  base0F [#8D6E63]

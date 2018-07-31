@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Bright
+Columns: 8
+#
+0 0 0  base00 [#000000]
+48 48 48  base01 [#303030]
+80 80 80  base02 [#505050]
+176 176 176  base03 [#b0b0b0]
+208 208 208  base04 [#d0d0d0]
+224 224 224  base05 [#e0e0e0]
+245 245 245  base06 [#f5f5f5]
+255 255 255  base07 [#ffffff]
+251 1 32  base08 [#fb0120]
+252 109 36  base09 [#fc6d24]
+253 163 49  base0A [#fda331]
+161 198 89  base0B [#a1c659]
+118 199 183  base0C [#76c7b7]
+111 179 210  base0D [#6fb3d2]
+211 129 195  base0E [#d381c3]
+190 100 60  base0F [#be643c]

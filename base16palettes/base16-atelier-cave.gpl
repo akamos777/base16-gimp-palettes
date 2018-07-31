@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Cave
+Columns: 8
+#
+25 23 28  base00 [#19171c]
+38 35 42  base01 [#26232a]
+88 82 96  base02 [#585260]
+101 95 109  base03 [#655f6d]
+126 120 135  base04 [#7e7887]
+139 135 146  base05 [#8b8792]
+226 223 231  base06 [#e2dfe7]
+239 236 244  base07 [#efecf4]
+190 70 120  base08 [#be4678]
+170 87 60  base09 [#aa573c]
+160 110 59  base0A [#a06e3b]
+42 146 146  base0B [#2a9292]
+57 139 198  base0C [#398bc6]
+87 109 219  base0D [#576ddb]
+149 90 231  base0E [#955ae7]
+191 64 191  base0F [#bf40bf]

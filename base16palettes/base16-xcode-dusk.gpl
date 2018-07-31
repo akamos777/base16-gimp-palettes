@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 XCode Dusk
+Columns: 8
+#
+40 43 53  base00 [#282B35]
+61 64 72  base01 [#3D4048]
+83 85 93  base02 [#53555D]
+104 106 113  base03 [#686A71]
+126 128 134  base04 [#7E8086]
+147 149 153  base05 [#939599]
+169 170 174  base06 [#A9AAAE]
+190 191 194  base07 [#BEBFC2]
+178 24 137  base08 [#B21889]
+120 109 197  base09 [#786DC5]
+67 130 136  base0A [#438288]
+223 0 2  base0B [#DF0002]
+0 160 190  base0C [#00A0BE]
+121 14 173  base0D [#790EAD]
+178 24 137  base0E [#B21889]
+199 124 72  base0F [#C77C48]

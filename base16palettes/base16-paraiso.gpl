@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Paraiso
+Columns: 8
+#
+47 30 46  base00 [#2f1e2e]
+65 50 63  base01 [#41323f]
+79 66 76  base02 [#4f424c]
+119 110 113  base03 [#776e71]
+141 134 135  base04 [#8d8687]
+163 158 155  base05 [#a39e9b]
+185 182 176  base06 [#b9b6b0]
+231 233 219  base07 [#e7e9db]
+239 97 85  base08 [#ef6155]
+249 155 21  base09 [#f99b15]
+254 196 24  base0A [#fec418]
+72 182 133  base0B [#48b685]
+91 196 191  base0C [#5bc4bf]
+6 182 239  base0D [#06b6ef]
+129 91 164  base0E [#815ba4]
+233 107 168  base0F [#e96ba8]

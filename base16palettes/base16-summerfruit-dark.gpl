@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Summerfruit Dark
+Columns: 8
+#
+21 21 21  base00 [#151515]
+32 32 32  base01 [#202020]
+48 48 48  base02 [#303030]
+80 80 80  base03 [#505050]
+176 176 176  base04 [#B0B0B0]
+208 208 208  base05 [#D0D0D0]
+224 224 224  base06 [#E0E0E0]
+255 255 255  base07 [#FFFFFF]
+255 0 134  base08 [#FF0086]
+253 137 0  base09 [#FD8900]
+171 168 0  base0A [#ABA800]
+0 201 24  base0B [#00C918]
+31 170 170  base0C [#1FAAAA]
+55 119 230  base0D [#3777E6]
+173 0 161  base0E [#AD00A1]
+204 102 51  base0F [#CC6633]

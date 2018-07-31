@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Circus
+Columns: 8
+#
+25 25 25  base00 [#191919]
+32 32 32  base01 [#202020]
+48 48 48  base02 [#303030]
+95 90 96  base03 [#5f5a60]
+80 80 80  base04 [#505050]
+167 167 167  base05 [#a7a7a7]
+128 128 128  base06 [#808080]
+255 255 255  base07 [#ffffff]
+220 101 125  base08 [#dc657d]
+75 177 167  base09 [#4bb1a7]
+195 186 99  base0A [#c3ba63]
+132 185 124  base0B [#84b97c]
+75 177 167  base0C [#4bb1a7]
+99 158 228  base0D [#639ee4]
+184 136 226  base0E [#b888e2]
+184 136 226  base0F [#b888e2]

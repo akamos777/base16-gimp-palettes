@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Grayscale Light
+Columns: 8
+#
+247 247 247  base00 [#f7f7f7]
+227 227 227  base01 [#e3e3e3]
+185 185 185  base02 [#b9b9b9]
+171 171 171  base03 [#ababab]
+82 82 82  base04 [#525252]
+70 70 70  base05 [#464646]
+37 37 37  base06 [#252525]
+16 16 16  base07 [#101010]
+124 124 124  base08 [#7c7c7c]
+153 153 153  base09 [#999999]
+160 160 160  base0A [#a0a0a0]
+142 142 142  base0B [#8e8e8e]
+134 134 134  base0C [#868686]
+104 104 104  base0D [#686868]
+116 116 116  base0E [#747474]
+94 94 94  base0F [#5e5e5e]

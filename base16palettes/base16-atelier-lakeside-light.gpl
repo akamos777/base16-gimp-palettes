@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Lakeside Light
+Columns: 8
+#
+235 248 255  base00 [#ebf8ff]
+193 228 246  base01 [#c1e4f6]
+126 162 180  base02 [#7ea2b4]
+113 149 168  base03 [#7195a8]
+90 123 140  base04 [#5a7b8c]
+81 109 123  base05 [#516d7b]
+31 41 46  base06 [#1f292e]
+22 27 29  base07 [#161b1d]
+210 45 114  base08 [#d22d72]
+147 92 37  base09 [#935c25]
+138 138 15  base0A [#8a8a0f]
+86 140 59  base0B [#568c3b]
+45 143 111  base0C [#2d8f6f]
+37 127 173  base0D [#257fad]
+107 107 184  base0E [#6b6bb8]
+183 45 210  base0F [#b72dd2]

@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Cupcake
+Columns: 8
+#
+251 241 242  base00 [#fbf1f2]
+242 241 244  base01 [#f2f1f4]
+216 213 221  base02 [#d8d5dd]
+191 185 198  base03 [#bfb9c6]
+165 157 175  base04 [#a59daf]
+139 129 152  base05 [#8b8198]
+114 103 126  base06 [#72677E]
+88 80 98  base07 [#585062]
+213 126 133  base08 [#D57E85]
+235 183 144  base09 [#EBB790]
+220 177 108  base0A [#DCB16C]
+163 179 103  base0B [#A3B367]
+105 169 167  base0C [#69A9A7]
+114 151 185  base0D [#7297B9]
+187 153 180  base0E [#BB99B4]
+186 165 140  base0F [#BAA58C]

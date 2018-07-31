@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Mexico Light
+Columns: 8
+#
+248 248 248  base00 [#f8f8f8]
+232 232 232  base01 [#e8e8e8]
+216 216 216  base02 [#d8d8d8]
+184 184 184  base03 [#b8b8b8]
+88 88 88  base04 [#585858]
+56 56 56  base05 [#383838]
+40 40 40  base06 [#282828]
+24 24 24  base07 [#181818]
+171 70 66  base08 [#ab4642]
+220 150 86  base09 [#dc9656]
+247 154 14  base0A [#f79a0e]
+83 137 71  base0B [#538947]
+75 128 147  base0C [#4b8093]
+124 175 194  base0D [#7cafc2]
+150 96 158  base0E [#96609e]
+161 105 70  base0F [#a16946]

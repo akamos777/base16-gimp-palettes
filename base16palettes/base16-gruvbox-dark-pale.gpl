@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Gruvbox dark, pale
+Columns: 8
+#
+38 38 38  base00 [#262626]
+58 58 58  base01 [#3a3a3a]
+78 78 78  base02 [#4e4e4e]
+138 138 138  base03 [#8a8a8a]
+148 148 148  base04 [#949494]
+218 185 151  base05 [#dab997]
+213 196 161  base06 [#d5c4a1]
+235 219 178  base07 [#ebdbb2]
+215 95 95  base08 [#d75f5f]
+255 135 0  base09 [#ff8700]
+255 175 0  base0A [#ffaf00]
+175 175 0  base0B [#afaf00]
+133 173 133  base0C [#85ad85]
+131 173 173  base0D [#83adad]
+212 133 173  base0E [#d485ad]
+214 93 14  base0F [#d65d0e]

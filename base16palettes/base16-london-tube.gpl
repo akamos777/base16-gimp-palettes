@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 London Tube
+Columns: 8
+#
+35 31 32  base00 [#231f20]
+28 63 149  base01 [#1c3f95]
+90 87 88  base02 [#5a5758]
+115 113 113  base03 [#737171]
+149 156 161  base04 [#959ca1]
+217 216 216  base05 [#d9d8d8]
+231 231 232  base06 [#e7e7e8]
+255 255 255  base07 [#ffffff]
+238 46 36  base08 [#ee2e24]
+243 134 161  base09 [#f386a1]
+255 210 4  base0A [#ffd204]
+0 133 62  base0B [#00853e]
+133 206 188  base0C [#85cebc]
+0 157 220  base0D [#009ddc]
+152 0 93  base0E [#98005d]
+176 97 16  base0F [#b06110]

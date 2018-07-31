@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Isotope
+Columns: 8
+#
+0 0 0  base00 [#000000]
+64 64 64  base01 [#404040]
+96 96 96  base02 [#606060]
+128 128 128  base03 [#808080]
+192 192 192  base04 [#c0c0c0]
+208 208 208  base05 [#d0d0d0]
+224 224 224  base06 [#e0e0e0]
+255 255 255  base07 [#ffffff]
+255 0 0  base08 [#ff0000]
+255 153 0  base09 [#ff9900]
+255 0 153  base0A [#ff0099]
+51 255 0  base0B [#33ff00]
+0 255 255  base0C [#00ffff]
+0 102 255  base0D [#0066ff]
+204 0 255  base0E [#cc00ff]
+51 0 255  base0F [#3300ff]

@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Forest
+Columns: 8
+#
+27 25 24  base00 [#1b1918]
+44 36 33  base01 [#2c2421]
+104 97 94  base02 [#68615e]
+118 110 107  base03 [#766e6b]
+156 148 145  base04 [#9c9491]
+168 161 159  base05 [#a8a19f]
+230 226 224  base06 [#e6e2e0]
+241 239 238  base07 [#f1efee]
+242 44 64  base08 [#f22c40]
+223 83 32  base09 [#df5320]
+195 132 24  base0A [#c38418]
+123 151 38  base0B [#7b9726]
+61 151 184  base0C [#3d97b8]
+64 126 231  base0D [#407ee7]
+102 102 234  base0E [#6666ea]
+195 63 243  base0F [#c33ff3]

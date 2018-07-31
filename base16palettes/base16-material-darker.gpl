@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Material Darker
+Columns: 8
+#
+33 33 33  base00 [#212121]
+48 48 48  base01 [#303030]
+53 53 53  base02 [#353535]
+74 74 74  base03 [#4A4A4A]
+178 204 214  base04 [#B2CCD6]
+238 255 255  base05 [#EEFFFF]
+238 255 255  base06 [#EEFFFF]
+255 255 255  base07 [#FFFFFF]
+240 113 120  base08 [#F07178]
+247 140 108  base09 [#F78C6C]
+255 203 107  base0A [#FFCB6B]
+195 232 141  base0B [#C3E88D]
+137 221 255  base0C [#89DDFF]
+130 170 255  base0D [#82AAFF]
+199 146 234  base0E [#C792EA]
+255 83 112  base0F [#FF5370]

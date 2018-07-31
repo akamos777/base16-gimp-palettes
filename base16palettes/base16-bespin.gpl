@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Bespin
+Columns: 8
+#
+40 33 28  base00 [#28211c]
+54 49 46  base01 [#36312e]
+94 93 92  base02 [#5e5d5c]
+102 102 102  base03 [#666666]
+121 121 119  base04 [#797977]
+138 137 134  base05 [#8a8986]
+157 155 151  base06 [#9d9b97]
+186 174 158  base07 [#baae9e]
+207 106 76  base08 [#cf6a4c]
+207 125 52  base09 [#cf7d34]
+249 238 152  base0A [#f9ee98]
+84 190 13  base0B [#54be0d]
+175 196 219  base0C [#afc4db]
+94 166 234  base0D [#5ea6ea]
+155 133 157  base0E [#9b859d]
+147 113 33  base0F [#937121]

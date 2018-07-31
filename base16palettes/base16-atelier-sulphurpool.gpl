@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Sulphurpool
+Columns: 8
+#
+32 39 70  base00 [#202746]
+41 50 86  base01 [#293256]
+94 102 135  base02 [#5e6687]
+107 115 148  base03 [#6b7394]
+137 142 164  base04 [#898ea4]
+151 157 180  base05 [#979db4]
+223 226 241  base06 [#dfe2f1]
+245 247 255  base07 [#f5f7ff]
+201 73 34  base08 [#c94922]
+199 107 41  base09 [#c76b29]
+192 139 48  base0A [#c08b30]
+172 151 57  base0B [#ac9739]
+34 162 201  base0C [#22a2c9]
+61 143 209  base0D [#3d8fd1]
+102 121 204  base0E [#6679cc]
+156 99 122  base0F [#9c637a]

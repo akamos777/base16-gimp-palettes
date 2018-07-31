@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Google Dark
+Columns: 8
+#
+29 31 33  base00 [#1d1f21]
+40 42 46  base01 [#282a2e]
+55 59 65  base02 [#373b41]
+150 152 150  base03 [#969896]
+180 183 180  base04 [#b4b7b4]
+197 200 198  base05 [#c5c8c6]
+224 224 224  base06 [#e0e0e0]
+255 255 255  base07 [#ffffff]
+204 52 43  base08 [#CC342B]
+249 106 56  base09 [#F96A38]
+251 169 34  base0A [#FBA922]
+25 136 68  base0B [#198844]
+57 113 237  base0C [#3971ED]
+57 113 237  base0D [#3971ED]
+163 106 199  base0E [#A36AC7]
+57 113 237  base0F [#3971ED]

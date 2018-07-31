@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Brush Trees
+Columns: 8
+#
+227 239 239  base00 [#E3EFEF]
+201 219 220  base01 [#C9DBDC]
+176 197 200  base02 [#B0C5C8]
+152 175 181  base03 [#98AFB5]
+130 153 161  base04 [#8299A1]
+109 130 142  base05 [#6D828E]
+90 109 122  base06 [#5A6D7A]
+72 88 103  base07 [#485867]
+179 134 134  base08 [#b38686]
+216 187 162  base09 [#d8bba2]
+170 179 134  base0A [#aab386]
+135 179 134  base0B [#87b386]
+134 179 179  base0C [#86b3b3]
+134 140 179  base0D [#868cb3]
+179 134 178  base0E [#b386b2]
+179 159 159  base0F [#b39f9f]

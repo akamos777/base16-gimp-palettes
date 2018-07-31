@@ -1,0 +1,3 @@
+default:
+    extension: .gpl
+    output: base16palettes

@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Solarized Dark
+Columns: 8
+#
+0 43 54  base00 [#002b36]
+7 54 66  base01 [#073642]
+88 110 117  base02 [#586e75]
+101 123 131  base03 [#657b83]
+131 148 150  base04 [#839496]
+147 161 161  base05 [#93a1a1]
+238 232 213  base06 [#eee8d5]
+253 246 227  base07 [#fdf6e3]
+220 50 47  base08 [#dc322f]
+203 75 22  base09 [#cb4b16]
+181 137 0  base0A [#b58900]
+133 153 0  base0B [#859900]
+42 161 152  base0C [#2aa198]
+38 139 210  base0D [#268bd2]
+108 113 196  base0E [#6c71c4]
+211 54 130  base0F [#d33682]

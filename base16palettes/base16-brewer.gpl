@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Brewer
+Columns: 8
+#
+12 13 14  base00 [#0c0d0e]
+46 47 48  base01 [#2e2f30]
+81 82 83  base02 [#515253]
+115 116 117  base03 [#737475]
+149 150 151  base04 [#959697]
+183 184 185  base05 [#b7b8b9]
+218 219 220  base06 [#dadbdc]
+252 253 254  base07 [#fcfdfe]
+227 26 28  base08 [#e31a1c]
+230 85 13  base09 [#e6550d]
+220 160 96  base0A [#dca060]
+49 163 84  base0B [#31a354]
+128 177 211  base0C [#80b1d3]
+49 130 189  base0D [#3182bd]
+117 107 177  base0E [#756bb1]
+177 89 40  base0F [#b15928]

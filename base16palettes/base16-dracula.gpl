@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Dracula
+Columns: 8
+#
+40 41 54  base00 [#282936]
+58 60 78  base01 [#3a3c4e]
+98 100 131  base02 [#626483]
+77 79 104  base03 [#4d4f68]
+98 214 232  base04 [#62d6e8]
+233 233 244  base05 [#e9e9f4]
+241 242 248  base06 [#f1f2f8]
+247 247 251  base07 [#f7f7fb]
+234 81 178  base08 [#ea51b2]
+180 91 207  base09 [#b45bcf]
+235 255 135  base0A [#ebff87]
+0 247 105  base0B [#00f769]
+161 239 228  base0C [#a1efe4]
+98 214 232  base0D [#62d6e8]
+180 91 207  base0E [#b45bcf]
+0 247 105  base0F [#00f769]

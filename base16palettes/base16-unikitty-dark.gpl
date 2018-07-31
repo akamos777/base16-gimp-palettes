@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Unikitty Dark
+Columns: 8
+#
+46 42 49  base00 [#2e2a31]
+74 70 77  base01 [#4a464d]
+102 99 105  base02 [#666369]
+131 128 133  base03 [#838085]
+159 157 162  base04 [#9f9da2]
+188 186 190  base05 [#bcbabe]
+216 215 218  base06 [#d8d7da]
+245 244 247  base07 [#f5f4f7]
+216 19 127  base08 [#d8137f]
+214 84 7  base09 [#d65407]
+220 138 14  base0A [#dc8a0e]
+23 173 152  base0B [#17ad98]
+20 155 218  base0C [#149bda]
+121 106 245  base0D [#796af5]
+187 96 234  base0E [#bb60ea]
+199 32 202  base0F [#c720ca]

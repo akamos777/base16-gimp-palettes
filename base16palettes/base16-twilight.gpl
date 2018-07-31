@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Twilight
+Columns: 8
+#
+30 30 30  base00 [#1e1e1e]
+50 53 55  base01 [#323537]
+70 75 80  base02 [#464b50]
+95 90 96  base03 [#5f5a60]
+131 129 132  base04 [#838184]
+167 167 167  base05 [#a7a7a7]
+195 195 195  base06 [#c3c3c3]
+255 255 255  base07 [#ffffff]
+207 106 76  base08 [#cf6a4c]
+205 168 105  base09 [#cda869]
+249 238 152  base0A [#f9ee98]
+143 157 106  base0B [#8f9d6a]
+175 196 219  base0C [#afc4db]
+117 135 166  base0D [#7587a6]
+155 133 157  base0E [#9b859d]
+155 112 63  base0F [#9b703f]

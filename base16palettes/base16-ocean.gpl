@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Ocean
+Columns: 8
+#
+43 48 59  base00 [#2b303b]
+52 61 70  base01 [#343d46]
+79 91 102  base02 [#4f5b66]
+101 115 126  base03 [#65737e]
+167 173 186  base04 [#a7adba]
+192 197 206  base05 [#c0c5ce]
+223 225 232  base06 [#dfe1e8]
+239 241 245  base07 [#eff1f5]
+191 97 106  base08 [#bf616a]
+208 135 112  base09 [#d08770]
+235 203 139  base0A [#ebcb8b]
+163 190 140  base0B [#a3be8c]
+150 181 180  base0C [#96b5b4]
+143 161 179  base0D [#8fa1b3]
+180 142 173  base0E [#b48ead]
+171 121 103  base0F [#ab7967]

@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Default Dark
+Columns: 8
+#
+24 24 24  base00 [#181818]
+40 40 40  base01 [#282828]
+56 56 56  base02 [#383838]
+88 88 88  base03 [#585858]
+184 184 184  base04 [#b8b8b8]
+216 216 216  base05 [#d8d8d8]
+232 232 232  base06 [#e8e8e8]
+248 248 248  base07 [#f8f8f8]
+171 70 66  base08 [#ab4642]
+220 150 86  base09 [#dc9656]
+247 202 136  base0A [#f7ca88]
+161 181 108  base0B [#a1b56c]
+134 193 185  base0C [#86c1b9]
+124 175 194  base0D [#7cafc2]
+186 139 175  base0E [#ba8baf]
+161 105 70  base0F [#a16946]

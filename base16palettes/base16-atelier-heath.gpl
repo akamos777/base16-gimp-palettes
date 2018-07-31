@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Heath
+Columns: 8
+#
+27 24 27  base00 [#1b181b]
+41 35 41  base01 [#292329]
+105 93 105  base02 [#695d69]
+119 105 119  base03 [#776977]
+158 143 158  base04 [#9e8f9e]
+171 155 171  base05 [#ab9bab]
+216 202 216  base06 [#d8cad8]
+247 243 247  base07 [#f7f3f7]
+202 64 43  base08 [#ca402b]
+166 89 38  base09 [#a65926]
+187 138 53  base0A [#bb8a35]
+145 139 59  base0B [#918b3b]
+21 147 147  base0C [#159393]
+81 106 236  base0D [#516aec]
+123 89 192  base0E [#7b59c0]
+204 51 204  base0F [#cc33cc]

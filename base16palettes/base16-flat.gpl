@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Flat
+Columns: 8
+#
+44 62 80  base00 [#2C3E50]
+52 73 94  base01 [#34495E]
+127 140 141  base02 [#7F8C8D]
+149 165 166  base03 [#95A5A6]
+189 195 199  base04 [#BDC3C7]
+224 224 224  base05 [#e0e0e0]
+245 245 245  base06 [#f5f5f5]
+236 240 241  base07 [#ECF0F1]
+231 76 60  base08 [#E74C3C]
+230 126 34  base09 [#E67E22]
+241 196 15  base0A [#F1C40F]
+46 204 113  base0B [#2ECC71]
+26 188 156  base0C [#1ABC9C]
+52 152 219  base0D [#3498DB]
+155 89 182  base0E [#9B59B6]
+190 100 60  base0F [#be643c]

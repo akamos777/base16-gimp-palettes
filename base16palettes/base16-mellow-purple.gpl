@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Mellow Purple
+Columns: 8
+#
+30 5 40  base00 [#1e0528]
+26 9 45  base01 [#1A092D]
+51 19 84  base02 [#331354]
+50 15 85  base03 [#320f55]
+135 53 130  base04 [#873582]
+255 238 255  base05 [#ffeeff]
+255 238 255  base06 [#ffeeff]
+248 192 255  base07 [#f8c0ff]
+0 217 233  base08 [#00d9e9]
+170 0 163  base09 [#aa00a3]
+149 90 231  base0A [#955ae7]
+5 203 13  base0B [#05cb0d]
+185 0 177  base0C [#b900b1]
+85 0 104  base0D [#550068]
+137 145 187  base0E [#8991bb]
+77 111 255  base0F [#4d6fff]

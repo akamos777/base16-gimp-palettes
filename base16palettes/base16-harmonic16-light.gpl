@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Harmonic16 Light
+Columns: 8
+#
+247 249 251  base00 [#f7f9fb]
+229 235 241  base01 [#e5ebf1]
+203 214 226  base02 [#cbd6e2]
+170 188 206  base03 [#aabcce]
+98 126 153  base04 [#627e99]
+64 92 121  base05 [#405c79]
+34 59 84  base06 [#223b54]
+11 28 44  base07 [#0b1c2c]
+191 139 86  base08 [#bf8b56]
+191 191 86  base09 [#bfbf56]
+139 191 86  base0A [#8bbf56]
+86 191 139  base0B [#56bf8b]
+86 139 191  base0C [#568bbf]
+139 86 191  base0D [#8b56bf]
+191 86 139  base0E [#bf568b]
+191 86 86  base0F [#bf5656]

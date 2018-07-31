@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Estuary
+Columns: 8
+#
+34 34 27  base00 [#22221b]
+48 47 39  base01 [#302f27]
+95 94 78  base02 [#5f5e4e]
+108 107 90  base03 [#6c6b5a]
+135 133 115  base04 [#878573]
+146 145 129  base05 [#929181]
+231 230 223  base06 [#e7e6df]
+244 243 236  base07 [#f4f3ec]
+186 98 54  base08 [#ba6236]
+174 115 19  base09 [#ae7313]
+165 152 13  base0A [#a5980d]
+125 151 38  base0B [#7d9726]
+91 157 72  base0C [#5b9d48]
+54 161 102  base0D [#36a166]
+95 145 130  base0E [#5f9182]
+157 108 124  base0F [#9d6c7c]

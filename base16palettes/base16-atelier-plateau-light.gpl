@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Plateau Light
+Columns: 8
+#
+244 236 236  base00 [#f4ecec]
+231 223 223  base01 [#e7dfdf]
+138 133 133  base02 [#8a8585]
+126 119 119  base03 [#7e7777]
+101 93 93  base04 [#655d5d]
+88 80 80  base05 [#585050]
+41 36 36  base06 [#292424]
+27 24 24  base07 [#1b1818]
+202 73 73  base08 [#ca4949]
+180 90 60  base09 [#b45a3c]
+160 110 59  base0A [#a06e3b]
+75 139 139  base0B [#4b8b8b]
+84 133 182  base0C [#5485b6]
+114 114 202  base0D [#7272ca]
+132 100 196  base0E [#8464c4]
+189 81 135  base0F [#bd5187]

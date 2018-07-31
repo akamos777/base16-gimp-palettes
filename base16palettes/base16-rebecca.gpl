@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Rebecca
+Columns: 8
+#
+41 42 68  base00 [#292a44]
+102 51 153  base01 [#663399]
+56 58 98  base02 [#383a62]
+102 102 153  base03 [#666699]
+160 160 197  base04 [#a0a0c5]
+241 239 248  base05 [#f1eff8]
+204 204 255  base06 [#ccccff]
+83 73 93  base07 [#53495d]
+160 160 197  base08 [#a0a0c5]
+239 228 161  base09 [#efe4a1]
+174 129 255  base0A [#ae81ff]
+109 254 223  base0B [#6dfedf]
+142 174 224  base0C [#8eaee0]
+45 224 167  base0D [#2de0a7]
+122 165 255  base0E [#7aa5ff]
+255 121 198  base0F [#ff79c6]

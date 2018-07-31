@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 IR Black
+Columns: 8
+#
+0 0 0  base00 [#000000]
+36 36 34  base01 [#242422]
+72 72 68  base02 [#484844]
+108 108 102  base03 [#6c6c66]
+145 143 136  base04 [#918f88]
+181 179 170  base05 [#b5b3aa]
+217 215 204  base06 [#d9d7cc]
+253 251 238  base07 [#fdfbee]
+255 108 96  base08 [#ff6c60]
+233 192 98  base09 [#e9c062]
+255 255 182  base0A [#ffffb6]
+168 255 96  base0B [#a8ff60]
+198 197 254  base0C [#c6c5fe]
+150 203 254  base0D [#96cbfe]
+255 115 253  base0E [#ff73fd]
+177 138 61  base0F [#b18a3d]

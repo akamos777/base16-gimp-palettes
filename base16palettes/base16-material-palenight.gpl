@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Material Palenight
+Columns: 8
+#
+41 45 62  base00 [#292D3E]
+68 66 103  base01 [#444267]
+50 55 77  base02 [#32374D]
+103 110 149  base03 [#676E95]
+135 150 176  base04 [#8796B0]
+149 157 203  base05 [#959DCB]
+149 157 203  base06 [#959DCB]
+255 255 255  base07 [#FFFFFF]
+240 113 120  base08 [#F07178]
+247 140 108  base09 [#F78C6C]
+255 203 107  base0A [#FFCB6B]
+195 232 141  base0B [#C3E88D]
+137 221 255  base0C [#89DDFF]
+130 170 255  base0D [#82AAFF]
+199 146 234  base0E [#C792EA]
+255 83 112  base0F [#FF5370]

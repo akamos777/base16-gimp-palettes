@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Dune Light
+Columns: 8
+#
+254 251 236  base00 [#fefbec]
+232 228 207  base01 [#e8e4cf]
+166 162 140  base02 [#a6a28c]
+153 149 128  base03 [#999580]
+125 122 104  base04 [#7d7a68]
+110 107 94  base05 [#6e6b5e]
+41 40 36  base06 [#292824]
+32 32 29  base07 [#20201d]
+215 55 55  base08 [#d73737]
+182 86 17  base09 [#b65611]
+174 149 19  base0A [#ae9513]
+96 172 57  base0B [#60ac39]
+31 173 131  base0C [#1fad83]
+102 132 225  base0D [#6684e1]
+184 84 212  base0E [#b854d4]
+212 53 82  base0F [#d43552]

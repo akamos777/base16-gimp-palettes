@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Materia
+Columns: 8
+#
+38 50 56  base00 [#263238]
+44 57 63  base01 [#2C393F]
+55 71 79  base02 [#37474F]
+112 120 128  base03 [#707880]
+201 204 211  base04 [#C9CCD3]
+205 211 222  base05 [#CDD3DE]
+213 219 229  base06 [#D5DBE5]
+255 255 255  base07 [#FFFFFF]
+236 95 103  base08 [#EC5F67]
+234 149 96  base09 [#EA9560]
+255 204 0  base0A [#FFCC00]
+139 214 73  base0B [#8BD649]
+128 203 196  base0C [#80CBC4]
+137 221 255  base0D [#89DDFF]
+130 170 255  base0E [#82AAFF]
+236 95 103  base0F [#EC5F67]

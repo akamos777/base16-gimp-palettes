@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Hopscotch
+Columns: 8
+#
+50 41 49  base00 [#322931]
+67 59 66  base01 [#433b42]
+92 84 91  base02 [#5c545b]
+121 115 121  base03 [#797379]
+152 148 152  base04 [#989498]
+185 181 184  base05 [#b9b5b8]
+213 211 213  base06 [#d5d3d5]
+255 255 255  base07 [#ffffff]
+221 70 76  base08 [#dd464c]
+253 139 25  base09 [#fd8b19]
+253 204 89  base0A [#fdcc59]
+143 193 62  base0B [#8fc13e]
+20 155 147  base0C [#149b93]
+18 144 191  base0D [#1290bf]
+200 94 124  base0E [#c85e7c]
+179 53 8  base0F [#b33508]

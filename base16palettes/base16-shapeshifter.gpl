@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Shapeshifter
+Columns: 8
+#
+249 249 249  base00 [#f9f9f9]
+224 224 224  base01 [#e0e0e0]
+171 171 171  base02 [#ababab]
+85 85 85  base03 [#555555]
+52 52 52  base04 [#343434]
+16 32 21  base05 [#102015]
+4 4 4  base06 [#040404]
+0 0 0  base07 [#000000]
+233 47 47  base08 [#e92f2f]
+224 148 72  base09 [#e09448]
+221 221 19  base0A [#dddd13]
+14 216 57  base0B [#0ed839]
+35 237 218  base0C [#23edda]
+59 72 227  base0D [#3b48e3]
+249 150 226  base0E [#f996e2]
+105 84 45  base0F [#69542d]

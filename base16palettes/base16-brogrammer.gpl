@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Brogrammer
+Columns: 8
+#
+31 31 31  base00 [#1f1f1f]
+248 17 24  base01 [#f81118]
+45 197 94  base02 [#2dc55e]
+236 186 15  base03 [#ecba0f]
+42 132 210  base04 [#2a84d2]
+78 90 183  base05 [#4e5ab7]
+16 129 214  base06 [#1081d6]
+214 219 229  base07 [#d6dbe5]
+214 219 229  base08 [#d6dbe5]
+222 53 46  base09 [#de352e]
+29 211 97  base0A [#1dd361]
+243 189 9  base0B [#f3bd09]
+16 129 214  base0C [#1081d6]
+83 80 185  base0D [#5350b9]
+15 125 219  base0E [#0f7ddb]
+255 255 255  base0F [#ffffff]

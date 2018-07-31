@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Tomorrow Night
+Columns: 8
+#
+29 31 33  base00 [#1d1f21]
+40 42 46  base01 [#282a2e]
+55 59 65  base02 [#373b41]
+150 152 150  base03 [#969896]
+180 183 180  base04 [#b4b7b4]
+197 200 198  base05 [#c5c8c6]
+224 224 224  base06 [#e0e0e0]
+255 255 255  base07 [#ffffff]
+204 102 102  base08 [#cc6666]
+222 147 95  base09 [#de935f]
+240 198 116  base0A [#f0c674]
+181 189 104  base0B [#b5bd68]
+138 190 183  base0C [#8abeb7]
+129 162 190  base0D [#81a2be]
+178 148 187  base0E [#b294bb]
+163 104 90  base0F [#a3685a]

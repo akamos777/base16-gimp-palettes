@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Snazzy
+Columns: 8
+#
+30 31 41  base00 [#1e1f29]
+52 53 62  base01 [#34353e]
+74 75 83  base02 [#4a4b53]
+120 120 126  base03 [#78787e]
+165 165 169  base04 [#a5a5a9]
+239 240 235  base05 [#eff0eb]
+241 241 240  base06 [#f1f1f0]
+241 241 240  base07 [#f1f1f0]
+255 92 87  base08 [#ff5c57]
+255 159 67  base09 [#ff9f43]
+243 249 157  base0A [#f3f99d]
+90 247 142  base0B [#5af78e]
+154 237 254  base0C [#9aedfe]
+87 199 255  base0D [#57c7ff]
+255 106 193  base0E [#ff6ac1]
+178 100 60  base0F [#b2643c]

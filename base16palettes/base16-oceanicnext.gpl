@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 OceanicNext
+Columns: 8
+#
+27 43 52  base00 [#1B2B34]
+52 61 70  base01 [#343D46]
+79 91 102  base02 [#4F5B66]
+101 115 126  base03 [#65737E]
+167 173 186  base04 [#A7ADBA]
+192 197 206  base05 [#C0C5CE]
+205 211 222  base06 [#CDD3DE]
+216 222 233  base07 [#D8DEE9]
+236 95 103  base08 [#EC5f67]
+249 145 87  base09 [#F99157]
+250 200 99  base0A [#FAC863]
+153 199 148  base0B [#99C794]
+95 179 179  base0C [#5FB3B3]
+102 153 204  base0D [#6699CC]
+197 148 197  base0E [#C594C5]
+171 121 103  base0F [#AB7967]

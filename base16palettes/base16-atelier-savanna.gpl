@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Atelier Savanna
+Columns: 8
+#
+23 28 25  base00 [#171c19]
+35 42 37  base01 [#232a25]
+82 96 87  base02 [#526057]
+95 109 100  base03 [#5f6d64]
+120 135 125  base04 [#78877d]
+135 146 138  base05 [#87928a]
+223 231 226  base06 [#dfe7e2]
+236 244 238  base07 [#ecf4ee]
+177 97 57  base08 [#b16139]
+159 113 60  base09 [#9f713c]
+160 126 59  base0A [#a07e3b]
+72 153 99  base0B [#489963]
+28 154 160  base0C [#1c9aa0]
+71 140 144  base0D [#478c90]
+85 133 155  base0E [#55859b]
+134 116 105  base0F [#867469]

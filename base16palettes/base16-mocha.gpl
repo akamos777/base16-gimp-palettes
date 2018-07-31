@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Mocha
+Columns: 8
+#
+59 50 40  base00 [#3B3228]
+83 70 54  base01 [#534636]
+100 82 64  base02 [#645240]
+126 112 90  base03 [#7e705a]
+184 175 173  base04 [#b8afad]
+208 200 198  base05 [#d0c8c6]
+233 225 221  base06 [#e9e1dd]
+245 238 235  base07 [#f5eeeb]
+203 96 119  base08 [#cb6077]
+210 139 113  base09 [#d28b71]
+244 188 135  base0A [#f4bc87]
+190 181 91  base0B [#beb55b]
+123 189 164  base0C [#7bbda4]
+138 179 181  base0D [#8ab3b5]
+168 155 185  base0E [#a89bb9]
+187 149 132  base0F [#bb9584]

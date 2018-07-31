@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Macintosh
+Columns: 8
+#
+0 0 0  base00 [#000000]
+64 64 64  base01 [#404040]
+64 64 64  base02 [#404040]
+128 128 128  base03 [#808080]
+128 128 128  base04 [#808080]
+192 192 192  base05 [#c0c0c0]
+192 192 192  base06 [#c0c0c0]
+255 255 255  base07 [#ffffff]
+221 9 7  base08 [#dd0907]
+255 100 3  base09 [#ff6403]
+251 243 5  base0A [#fbf305]
+31 183 20  base0B [#1fb714]
+2 171 234  base0C [#02abea]
+0 0 211  base0D [#0000d3]
+71 0 165  base0E [#4700a5]
+144 113 58  base0F [#90713a]

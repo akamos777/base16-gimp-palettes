@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Black Metal (Mayhem)
+Columns: 8
+#
+0 0 0  base00 [#000000]
+18 18 18  base01 [#121212]
+34 34 34  base02 [#222222]
+51 51 51  base03 [#333333]
+153 153 153  base04 [#999999]
+193 193 193  base05 [#c1c1c1]
+153 153 153  base06 [#999999]
+193 193 193  base07 [#c1c1c1]
+95 135 135  base08 [#5f8787]
+170 170 170  base09 [#aaaaaa]
+238 204 108  base0A [#eecc6c]
+243 236 212  base0B [#f3ecd4]
+170 170 170  base0C [#aaaaaa]
+136 136 136  base0D [#888888]
+153 153 153  base0E [#999999]
+68 68 68  base0F [#444444]
